@@ -16,7 +16,6 @@
   
 
 
-  
 
 ## 🤖 Introduction
 
@@ -87,10 +86,6 @@ Replace the placeholder values with your actual **[TheMovieDatabase API](https:/
 ```bash
 npm run dev
 ```
-
-Open ([http://localhost:3000](http://localhost:3000/)) in your browser to view the project.
-
-
 
 
 Thank you for your interest in this project!
